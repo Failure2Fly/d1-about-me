@@ -9,7 +9,7 @@ var hoursOfSleep = 6.5;
 var favoriteGenreMusic = 'Pop Punk';
 var favoriteShowsMovies = ['The Simpsons', 'Saturday Night Live', 'The Office', 'Californication', 'Eternal Sunshine of the Spotless Mind', 'Donnie Darko', 'Rushmore', 'The Princess Bride'];
 var jobTitleFiveYears;
-var lifeWithoutJs = 'null';
+var lifeWithoutJs = null;
 var graduationDate = new Date();
 graduationDate.setFullYear(2006);
 graduationDate = graduationDate.getFullYear();
